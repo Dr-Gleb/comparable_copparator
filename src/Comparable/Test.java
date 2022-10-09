@@ -14,5 +14,6 @@ public class Test {
         System.out.println(list);
         Collections.sort(list);
         System.out.println(list);
+        System.out.println(list);
     }
 }
